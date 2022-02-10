@@ -1,0 +1,13 @@
+Sno=int(input('enter sno'))
+Sname=input('enter sname')
+Scourse=input('enter scourse')
+S1=int(intput('enter s1 marks'))
+S2=int(intput('enter s2 marks'))
+S3=int(intput('enter s3 marks'))
+S4=int(intput('enter s4 marks'))
+S5=int(intput('enter s5 marks'))
+S6=int(intput('enter s6 marks'))
+if s1>40 and s2>55 and s3>40 and s4>35 and s5>60 and s6>72:
+   Print('pass')
+else:
+   Print('fail')
